@@ -1,0 +1,44 @@
+body{
+	background-color: #EEF7FB;
+}
+.f1{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+}
+.f2{
+	position: absolute;
+	top: 100%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+}
+.f3{
+	position: absolute;
+	top: 200%;
+	left: 0%;
+	width: 100%;
+	height: 90%;
+}
+.bann{
+	position: absolute;
+	top: 1%;
+	left: 15%;
+}
+.im{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+}
+.capt{
+	position: absolute;
+	top: 200%;
+	left: 28%;
+}
+.co{
+	position: absolute;
+	top: 230%;
+	left: 8%;
+}
